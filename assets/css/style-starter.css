@@ -21121,5 +21121,13 @@ ul.social-icons-contact li a {
     line-height: 34px;
   }
 }
+.error1{
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+  color: red;
+  display: none;
+
+}
 
 /* //contact */
